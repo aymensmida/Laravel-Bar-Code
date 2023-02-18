@@ -5,7 +5,7 @@ picqer/php-barcode-generator is a composer package for generating barcodes in yo
 
 1-Clone the repository
 ```
-https://github.com/aymensmida/Laravel-Bar-Code.git
+git clone https://github.com/aymensmida/Laravel-Bar-Code.git
 ```
 
 2- cd into the folder with this command:
